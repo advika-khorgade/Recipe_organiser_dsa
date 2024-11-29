@@ -1,15 +1,3 @@
-/*
- SMART RECIPE MANAGER
- 
- 502- ADVIKA KHORGADE
- 512- SRUSHTI CHIKHALE
- 515- ARPITA DEODIKAR
- 522- JAGRUTI DISLE
- */
- 
-
-
-
 
 package DS_miniproj;
 import java.util.*;
