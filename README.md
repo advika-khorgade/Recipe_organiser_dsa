@@ -1,8 +1,10 @@
 # Recipe_organiser_dsa
 Recipe Manager Application 🍳
+
 A Java-based Recipe Manager to add, search, delete, and sort recipes efficiently using data structures like BST, Stack, Circular Queue, and Linked List.
 
 Features
+
 Add, Search, and Delete Recipes:
 
 Manage recipes with details like name, cuisine, ingredients, cooking time, servings, and popularity.
