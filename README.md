@@ -6,15 +6,16 @@ Features
 Add, Search, and Delete Recipes:
 
 Manage recipes with details like name, cuisine, ingredients, cooking time, servings, and popularity.
-View Recipes:
+
 
 Display all recipes in a formatted table.
 Recently viewed recipes (stack).
 Meal planning queue (circular queue).
 Favorite recipes (linked list).
-Sort Recipes:
 
+Sort Recipes:
 By ingredients (Bubble Sort), popularity (Insertion Sort), or cuisine (Quick Sort).
+
 Technologies Used
 Language: Java
 Data Structures:
