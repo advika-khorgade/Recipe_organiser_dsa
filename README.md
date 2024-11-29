@@ -19,14 +19,18 @@ Sort Recipes:
 By ingredients (Bubble Sort), popularity (Insertion Sort), or cuisine (Quick Sort).
 
 Technologies Used
+
 Language: Java
+
 Data Structures:
+
 Binary Search Tree (Recipe Management)
 Stack (Recently Viewed)
 Circular Queue (Meal Planning)
 Linked List (Favorites)
 
 Usage
+
 Add Recipes: Enter recipe details like name, cuisine, ingredients, etc.
 Search Recipes: Find a recipe by name.
 Sort Recipes: Sort by ingredients, popularity, or cuisine.
